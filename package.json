@@ -8,6 +8,12 @@
   },
   "dependencies": {
     "telebot": "latest",
-    "telebot-vercel": "latest"
+    "telebot-vercel": "latest",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "google-spreadsheet": "^3.1.15",
+    "nodemon": "^2.0.12",
+    "telegraf": "^4.4.0",
+    "telegraf-question": "^1.1.4"
   }
 }
