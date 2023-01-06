@@ -1,7 +1,8 @@
 {
   "functions": {
     "api/**": {
-      "includeFiles": "node_modules/telebot/plugins/**"
+      "includeFiles": "node_modules/telegraf/**"
+
     }
   },
   "github": {
